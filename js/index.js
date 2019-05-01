@@ -1,7 +1,7 @@
 // using this file is optional
 // you can also load the code snippets in using your browser's console
 
-// This is bubbling with a propagation stop. 
+// This is bubbling with a propagation stop in the DOM. 
 const divs = document.querySelectorAll('div');
 
 function bubble(e) {
